@@ -1,7 +1,5 @@
 package com.test.stacks;
 
-import com.test.arrays.ThreeFactors;
-
 import java.util.Stack;
 
 /**
