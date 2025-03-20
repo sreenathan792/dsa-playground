@@ -1,8 +1,6 @@
-package com.leetcode.arrays2D;
+package com.test.arrays;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 
 /**
  * <h4>973. K Closest Points to Origin</h4>

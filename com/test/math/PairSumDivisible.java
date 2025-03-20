@@ -1,4 +1,4 @@
-package com.test.modAthGCD;
+package com.test.math;
 
 /**
  * Given an array of integers A and an integer B, find and return the number of pairs in A whose sum is divisible by B.

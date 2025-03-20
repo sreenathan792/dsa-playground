@@ -104,7 +104,7 @@ public class Dijkstra {
 
         @Override
         public int compareTo(Pair o) {
-            return Integer.compare(o.weight, this.weight);
+            return this.weight-o.weight;
         }
     }
 

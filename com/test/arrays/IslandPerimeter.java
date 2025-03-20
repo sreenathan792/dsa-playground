@@ -1,6 +1,4 @@
-package com.leetcode.arrays2D;
-
-import com.test.arrays.BestTimetoBuyandSellStocksI;
+package com.test.arrays;
 
 /**
  * <h4>463. Island Perimeter</h4>

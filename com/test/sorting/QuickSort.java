@@ -1,11 +1,6 @@
-package com.test.QuickNComparator;
-
-import com.test.CountNMerge.MergeSort;
+package com.test.sorting;
 
 import java.util.Arrays;
-import java.util.Collections;
-
-import static java.util.Collections.swap;
 
 /**
  * Given an integer array A, sort the array using Quick Sort.

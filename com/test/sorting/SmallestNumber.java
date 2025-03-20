@@ -1,4 +1,4 @@
-package com.test.CountNMerge;
+package com.test.sorting;
 
 import java.util.Arrays;
 

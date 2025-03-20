@@ -1,4 +1,4 @@
-package com.test.BitManipulation;
+package com.test.bitmanipulation;
 
 public class SingleNumberII {
 

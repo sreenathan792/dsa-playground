@@ -1,4 +1,4 @@
-package com.test.QuickNComparator;
+package com.test.comparator;
 
 import java.util.*;
 import java.util.stream.Collectors;

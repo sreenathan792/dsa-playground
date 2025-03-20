@@ -1,4 +1,4 @@
-package com.test.modAthGCD;
+package com.test.math;
 
 /**
  * Given 2 non-negative integers A and B, find gcd(A, B)

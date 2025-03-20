@@ -1,6 +1,4 @@
-package com.test.modAthGCD;
-
-import com.test.recursion.SumOfDigits;
+package com.test.math;
 
 /**
  * Implement pow(A, B) % C.

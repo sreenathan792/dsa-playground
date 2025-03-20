@@ -1,7 +1,5 @@
 package com.test.hashing;
 
-import com.test.modAthGCD.GreatestCommonDivisor;
-
 import java.util.HashSet;
 
 /**

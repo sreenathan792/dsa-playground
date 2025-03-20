@@ -1,4 +1,4 @@
-package com.test.QuickNComparator;
+package com.test.sorting;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,7 +1,5 @@
 package com.test.arrays;
 
-import com.leetcode.arrays2D.KClosestToOrigin;
-
 import java.util.Arrays;
 
 /**
